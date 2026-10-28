@@ -1,0 +1,16 @@
+# Secrets and private assets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets/
+private/
+*.psd
+*.psb
+*.kra
+*.c4d
+*.exr
+*.hdr
+.DS_Store
+Thumbs.db
