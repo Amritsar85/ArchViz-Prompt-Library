@@ -60,3 +60,13 @@ Les prompts maîtres et presets de photoréalisme ont été harmonisés avec cet
 - [Postproduction hybride](docs/hybrid-postproduction.md) : comparaison, recalage et restauration de l’original par masques.
 
 T02 est une référence esthétique, pas une garantie de conformité. Les consignes 4K / Auto / Medium de cette série sont distinguées des dimensions réelles des fichiers reçus. Les images de projet et le rapport illustré restent hors du dépôt public.
+
+## Essais T09-T27 : logements et transfert portuaire
+
+- [Bilan et limites](tests/2026-10-29-t09-t27.md).
+- [Recette de jour logements T25/T26](presets/daylight-housing-preservation.md).
+- [Adaptation portuaire T27](presets/daylight-harbor-preservation.md).
+- [Sources et ambiances](docs/source-types-and-ambience.md).
+- [Cheminements](locks/site-circulation.md), [enduit fin optionnel](modules/materials-fine-render.md), [sunset naturel expérimental](experimental/sunset-natural-relighting.md).
+
+Résultats visuels encourageants, fidélité partielle. T11 n’est pas considérée comme stable après T23. Les maîtres existants restent inchangés.
