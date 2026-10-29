@@ -51,3 +51,12 @@ Par défaut, les matériaux architecturaux sont **propres et entretenus** : la p
 - `modules/materials-clean-facades.md` : renforce la propreté des façades et enduits.
 - `modules/material-weathering-optional.md` : salissures, patine et vieillissement **uniquement sur demande explicite**.
 Les prompts maîtres et presets de photoréalisme ont été harmonisés avec cette règle.
+
+## Banc d’essai T01-T08 (29 octobre 2026)
+
+- [Bilan des huit essais](tests/2026-10-29-t01-t08.md) : deux vues du même environnement, préférences esthétiques et limites de fidélité.
+- [Recette courte retenue (T02)](presets/photorealism-short-preservation.md) : assemblage du maître court et du verrou géométrique, sans modifier leurs textes.
+- [Blocs expérimentaux](experimental/README.md) : chaleur, brume, textures, ID pass et priorités de fidélité ; pas de validation générale.
+- [Postproduction hybride](docs/hybrid-postproduction.md) : comparaison, recalage et restauration de l’original par masques.
+
+T02 est une référence esthétique, pas une garantie de conformité. Les consignes 4K / Auto / Medium de cette série sont distinguées des dimensions réelles des fichiers reçus. Les images de projet et le rapport illustré restent hors du dépôt public.
