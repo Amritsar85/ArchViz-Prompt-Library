@@ -1,0 +1,189 @@
+{
+  "schema": 1,
+  "archive": "ArchViz_Tests_Base_2026-11-04.zip",
+  "site_commit": "0fca20b849672631f26d09c0562cc82ae94a0d2e",
+  "tests": [
+    {
+      "id": "B01",
+      "source_sha256": "23bf98c0f53e07165bfb1e60fb3178a51dc2019a8203a2fbc027c951e54b0f81",
+      "source_dimensions_px": [
+        2048,
+        1299
+      ],
+      "prompt_sha256": "64b7d032cdd050983233cf01d87ac7080c18545faaf310f62551cbdb278ed5c8",
+      "settings": {
+        "schema": 1,
+        "catalogVersion": "0.1.0",
+        "source": "render",
+        "view": "ground",
+        "enabled": [
+          "paths",
+          "components",
+          "colors",
+          "people",
+          "vegetation",
+          "vehicles",
+          "depth",
+          "fine"
+        ],
+        "notes": "",
+        "customPrompt": null,
+        "extension": null,
+        "recipe": null,
+        "recipeVariant": false,
+        "horizonLock": false
+      }
+    },
+    {
+      "id": "B02",
+      "source_sha256": "b0cffb3995f739f04950cabf9e7e096194244f0fa0d1c2b551f1e557eb482031",
+      "source_dimensions_px": [
+        2048,
+        985
+      ],
+      "prompt_sha256": "fc76769acfa62e63d0f000923599d52ee1501d49047976fc08fa9c8cfd5f1c97",
+      "settings": {
+        "schema": 1,
+        "catalogVersion": "0.1.0",
+        "source": "render",
+        "view": "ground",
+        "enabled": [
+          "paths",
+          "components",
+          "colors",
+          "people",
+          "vegetation",
+          "vehicles",
+          "depth"
+        ],
+        "notes": "",
+        "customPrompt": null,
+        "extension": null,
+        "recipe": null,
+        "recipeVariant": false,
+        "horizonLock": false
+      }
+    },
+    {
+      "id": "B03",
+      "source_sha256": "70c1c5ac52390ef8636e8921b669371b5d8123752e47c92271bf4461ef85f3d4",
+      "source_dimensions_px": [
+        2048,
+        1536
+      ],
+      "prompt_sha256": "fc76769acfa62e63d0f000923599d52ee1501d49047976fc08fa9c8cfd5f1c97",
+      "settings": {
+        "schema": 1,
+        "catalogVersion": "0.1.0",
+        "source": "render",
+        "view": "ground",
+        "enabled": [
+          "paths",
+          "components",
+          "colors",
+          "people",
+          "vegetation",
+          "vehicles",
+          "depth"
+        ],
+        "notes": "",
+        "customPrompt": null,
+        "extension": null,
+        "recipe": null,
+        "recipeVariant": false,
+        "horizonLock": false
+      }
+    },
+    {
+      "id": "B04",
+      "source_sha256": "5386410642fcdf06d9be6e402d2f9762e21f4187522cc97fd4c81eca4c5eb3ea",
+      "source_dimensions_px": [
+        2048,
+        1299
+      ],
+      "prompt_sha256": "b544f44afc6a01ba2d1ac7447f23d606a86b01d8dbbaab038bb6bdacdfb1df58",
+      "settings": {
+        "schema": 1,
+        "catalogVersion": "0.1.0",
+        "source": "render",
+        "view": "interior",
+        "enabled": [
+          "paths",
+          "components",
+          "colors",
+          "people",
+          "vegetation",
+          "vehicles",
+          "depth"
+        ],
+        "notes": "",
+        "customPrompt": null,
+        "extension": null,
+        "recipe": null,
+        "recipeVariant": false,
+        "horizonLock": false
+      }
+    },
+    {
+      "id": "B05",
+      "source_sha256": "00aa06b33f666fbd9bbf6e91ee3bc6ba853865df7c90f6a00a62a68dd2bff000",
+      "source_dimensions_px": [
+        2048,
+        1160
+      ],
+      "prompt_sha256": "0c1e3ad956a5d808e54564641c5d3656e9a57e50ff995dfd9d11b492ad9103df",
+      "settings": {
+        "schema": 1,
+        "catalogVersion": "0.1.0",
+        "source": "insertion",
+        "view": "aerial",
+        "enabled": [
+          "paths",
+          "components",
+          "colors",
+          "people",
+          "vegetation",
+          "vehicles",
+          "depth"
+        ],
+        "notes": "",
+        "customPrompt": null,
+        "extension": null,
+        "recipe": null,
+        "recipeVariant": false,
+        "horizonLock": false
+      }
+    },
+    {
+      "id": "B06",
+      "source_sha256": "011bf0c23dd7dd25d645ebf879c71c81d566be2de6587a77c6fd9a27ee286825",
+      "source_dimensions_px": [
+        2048,
+        1366
+      ],
+      "prompt_sha256": "fe8a31d6cff4f677cd6009ced3cdc0e6bfcc18c35b183160f16533b2ddc1e464",
+      "settings": {
+        "schema": 1,
+        "catalogVersion": "0.1.0",
+        "source": "insertion",
+        "view": "ground",
+        "enabled": [
+          "paths",
+          "components",
+          "colors",
+          "people",
+          "vegetation",
+          "vehicles",
+          "depth",
+          "fine"
+        ],
+        "notes": "",
+        "customPrompt": null,
+        "extension": null,
+        "recipe": null,
+        "recipeVariant": false,
+        "horizonLock": false
+      }
+    }
+  ]
+}
